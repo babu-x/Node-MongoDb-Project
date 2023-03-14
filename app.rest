@@ -1,0 +1,21 @@
+POST http://localhost:3001/initialize-db
+###
+
+
+GET http://localhost:3001/sale-amount-of-selected-month
+###
+
+GET http://localhost:3001/number-of-sold-items-month
+###
+
+GET http://localhost:3001/number-of-not-sold-items-month
+###
+
+GET http://localhost:3001/api-bar-chart
+###
+
+GET http://localhost:3001/get-categories-of-month
+###
+
+GET http://localhost:3001/get-all-api-jsondata
+###
